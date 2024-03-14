@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "course_name": "Python Programming for Beginners",
+      "description": "Learn Python programming from scratch with hands-on exercises and projects. Suitable for absolute beginners.",
+      "photo": "https://i.ibb.co/VHtGN0R/python.jpg",
+      "price": 49.99,
+      "credit": 4
+    },
+    {
+      "id": 2,
+      "course_name": "Web Development Bootcamp",
+      "description": "Master the essential technologies and skills required for modern web development, including HTML, CSS, JavaScript, and more.",
+      "photo": "https://i.ibb.co/nzqBt4q/bootCamp.jpg",
+      "price": 79.99,
+      "credit": 6
+    },
+    {
+      "id": 3,
+      "course_name": "Data Science with R",
+      "description": "Explore data science concepts and techniques using the R programming language. Suitable for both beginners and intermediate learners.",
+      "photo": "https://i.ibb.co/WHL7vF2/data-Science.jpg",
+      "price": 69.99,
+      "credit": 5
+    },
+    {
+      "id": 4,
+      "course_name": "Mobile App Development with Flutter",
+      "description": "Build cross-platform mobile applications using Google's Flutter framework. No prior mobile development experience required.",
+      "photo": "https://i.ibb.co/ncW0xjX/mobile-App.jpg",
+      "price": 89.99,
+      "credit": 7
+    },
+    {
+      "id": 5,
+      "course_name": "Java Programming Fundamentals",
+      "description": "Get started with Java programming language and learn basic concepts, syntax, and object-oriented programming principles.",
+      "photo": "https://i.ibb.co/mFC747k/java.jpg",
+      "price": 59.99,
+      "credit": 4
+    },
+    {
+      "id": 6,
+      "course_name": "Full Stack JavaScript Development",
+      "description": "Become proficient in both front-end and back-end JavaScript development, including frameworks like React and Node.js.",
+      "photo": "https://i.ibb.co/XtjfTBC/js-Development.jpg",
+      "price": 99.99,
+      "credit": 8
+    },
+    {
+      "id": 7,
+      "course_name": "Machine Learning with Python",
+      "description": "Dive into the world of machine learning and AI using Python. Learn popular libraries like TensorFlow and scikit-learn.",
+      "photo": "https://i.ibb.co/6RJnJ6Z/mechin-Learning.jpg",
+      "price": 79.99,
+      "credit": 6
+    },
+    {
+      "id": 8,
+      "course_name": "Cybersecurity Fundamentals",
+      "description": "Gain foundational knowledge in cybersecurity, including network security, cryptography, and ethical hacking techniques.",
+      "photo": "https://i.ibb.co/SN2S79J/cyber-Security.jpg",
+      "price": 69.99,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "course_name": "React Native Mobile Development",
+      "description": "Learn to build native mobile apps for iOS and Android using the React Native framework.",
+      "photo": "https://i.ibb.co/jJZC3yd/react.jpg",
+      "price": 79.99,
+      "credit": 6
+    }
+  ]
+  
+
+ 
+
+
+
+
+
+
+
